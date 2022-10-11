@@ -1,1 +1,1 @@
-# dic-class-nid
+# div-class-nid
